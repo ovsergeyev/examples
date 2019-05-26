@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Заготовки. Примеры выполнения различных элементов",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergeyev O.V.",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "owl.carousel": "^2.3.4"
+  }
+}
